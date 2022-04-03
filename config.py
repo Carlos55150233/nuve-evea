@@ -4,11 +4,11 @@ API_HASH = '382ee6b53bdd0df66a52ea9779c62424'
 
 
 # DATOS DEL MOODLE
-USUARIO = 'rudy03'
-PASSWORD = 'Z2VvkvDd'
+USUARIO = 'joborges'
+PASSWORD = 'liany.29'
 USUARIO_ID = 477147
 ZIP_MB = 399
-MOODLE_URL = 'moodle.uclv.cu'
+MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [5113147578]
 
 # CUENTA DE MEGA
