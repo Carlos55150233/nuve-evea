@@ -7,7 +7,7 @@ API_HASH = '382ee6b53bdd0df66a52ea9779c62424'
 USUARIO = 'amaguilar'
 PASSWORD = 'Al2+1425'
 USUARIO_ID = 2374
-ZIP_MB = 150
+ZIP_MB = 100
 MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [1511485191]
 
